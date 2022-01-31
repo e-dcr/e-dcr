@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @e-dcr
 - 👀 I’m interested in omics analysis 
 - 🌱 I’m currently learning Julia
-- 📫 Reach me @ eleonoradcr@gmail.com
+- 📫 Reach me @ eleonoradicarluccio@gmail.com
 
 <!---
 e-dcr/e-dcr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
